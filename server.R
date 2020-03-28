@@ -60,7 +60,7 @@ shinyServer(function(input, output, session) {
                  sizex = 10,
                  sizey = 100,
                  sizing = "stretch",
-                 opacity = 0.1,
+                 opacity = 0.3,
                  layer = "below"
             )
         )
